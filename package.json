@@ -1,0 +1,26 @@
+{
+  "name": "onmytravel-domain",
+  "version": "1.0.0",
+  "description": "Core system for the OnMyTravel applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/OnMyTravel/domain.git"
+  },
+  "keywords": [
+    "Domain",
+    "OnMyTravel"
+  ],
+  "author": "Adrien Saunier <contact.adriensaunier@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OnMyTravel/domain/issues"
+  },
+  "homepage": "https://github.com/OnMyTravel/domain#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
